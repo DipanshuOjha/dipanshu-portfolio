@@ -1,0 +1,15 @@
+.photo-circle {
+    border-radius: 50%; /* Makes the photo circular */
+    /* Add any other styles for the photo here */
+}
+
+/* Update the color scheme */
+body {
+    background-color: #000; /* Black background */
+    color: #00f; /* Blue text */
+}
+
+/* Adjust other elements as needed */
+.header {
+    background-color: #001f3f; /* Dark blue */
+} 
