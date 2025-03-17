@@ -6,7 +6,7 @@ const Hero = () => {
     <section id="home" className="min-h-screen flex items-center justify-center pt-16">
       <div className="text-center">
         <img
-          src="/image/dipanshu_Pic_1024x1024.jpeg"
+          src="/dipanshu_Pic_1024x1024.jpeg"
           alt="Profile"
           className="w-80 h-80 rounded-full mx-auto mb-8 border-4 border-blue-500 rounded-full"
         />
